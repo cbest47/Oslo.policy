@@ -1,4 +1,5 @@
 Oslo.policy
+~~~~~~~~~~~
 
 **Status**: Draft/Ready for Review/Reviewed
 **Release**: Pike
@@ -31,7 +32,9 @@ standpoint, one can view all effective policies that are in place. [1]
 Components
 ~~~~~~~~~~~~~~~~
 -Policy.yaml
+
 -Policy.JSON(old version, format still supported)
+
 -Oslo.config
 
 
@@ -40,5 +43,7 @@ Components
 RESOURCES:
 ~~~~~~~~~~~
 [0] https://docs.openstack.org/oslo.policy/latest/admin/policy-yaml-file.html
+
 [1] https://docs.openstack.org/oslo.policy/latest/user/usage.html#migrating-to-oslo-policy
-[2]
+
+[2] https://specs.openstack.org/openstack/oslo-specs
