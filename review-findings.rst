@@ -28,7 +28,8 @@ Impact: Medium
 
 Overall Risk Rating: low
 
-Recommendation: implement
+Recommendation: implement, improve
 
 Investigation result: This is a good thing because it increases the visibility into what policies are currently
-in effect. Allows granular role based access control to be done efficiently.
+in effect. Allows somewhat granular role based access control to be done, but could certainly be improved upon.
+
