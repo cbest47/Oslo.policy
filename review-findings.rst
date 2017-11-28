@@ -31,5 +31,5 @@ Overall Risk Rating: low
 Recommendation: implement, improve
 
 Investigation result: This is a good thing because it increases the visibility into what policies are currently
-in effect. Allows somewhat granular role based access control to be done, but could certainly be improved upon.
+in effect. A more effective measure would be to implement more in depth role based access control.
 
